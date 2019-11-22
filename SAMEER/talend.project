@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_YpmsUQ0EEeqy_KiAOlUIpA" label="sameer" description="sameer" language="java" technicalLabel="SAMEER" creationDate="2019-11-22T14:11:40.003+0530" author="_YpmsUg0EEeqy_KiAOlUIpA" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Sameer753/sameer.git&quot;,&quot;login&quot;:&quot;sameer753&quot;,&quot;passwd&quot;:&quot;4kEMiJrWUWlyY4OGKmVXGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_YpmsUQ0EEeqy_KiAOlUIpA" label="sameer" description="sameer" language="java" technicalLabel="SAMEER" creationDate="2019-11-22T14:11:40.003+0530" author="_YpmsUg0EEeqy_KiAOlUIpA" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Sameer753/sameer.git&quot;,&quot;login&quot;:&quot;sameer753&quot;,&quot;passwd&quot;:&quot;4kEMiJrWUWlyY4OGKmVXGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_Y6_-UA0EEeqy_KiAOlUIpA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_Y6_-UQ0EEeqy_KiAOlUIpA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_Y6_-Ug0EEeqy_KiAOlUIpA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_Y62NUA0EEeqy_KiAOlUIpA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_Y62NUQ0EEeqy_KiAOlUIpA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_Y62NUg0EEeqy_KiAOlUIpA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_Y5HH8A0EEeqy_KiAOlUIpA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Y5HH8Q0EEeqy_KiAOlUIpA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Y5HH8g0EEeqy_KiAOlUIpA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
