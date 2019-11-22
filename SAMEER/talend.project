@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_YpmsUQ0EEeqy_KiAOlUIpA" label="sameer" description="sameer" language="java" technicalLabel="SAMEER" creationDate="2019-11-22T14:11:40.003+0530" author="_YpmsUg0EEeqy_KiAOlUIpA" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Sameer753/sameer.git&quot;,&quot;login&quot;:&quot;sameer753&quot;,&quot;passwd&quot;:&quot;4kEMiJrWUWlyY4OGKmVXGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_YpmsUg0EEeqy_KiAOlUIpA" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+</xmi:XMI>
